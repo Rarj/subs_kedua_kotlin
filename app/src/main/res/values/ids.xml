@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="team_home" type="id" />
+    <item name="team_away" type="id" />
+    <item name="date_event" type="id" />
+</resources>
